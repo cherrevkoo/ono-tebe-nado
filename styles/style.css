@@ -49,6 +49,7 @@
 
 .header__address {
   justify-self: end;
+  width: 240px;
 }
 
 .header__address p {
